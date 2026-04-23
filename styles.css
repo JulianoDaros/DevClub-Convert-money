@@ -95,7 +95,7 @@ div{
     color:#777777;
 }
 
-.valor{
+.valor-convertido, .valor-a-converter{
     font-weight: 700;
     font-size: 20px;
     color: #555555;
