@@ -2,7 +2,7 @@
 <br>
 <h2>Este é o meu primeiro site usando JavaScript, aprendi a usar esta linguagem de programação pelo <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 <br>
-<p>Bom, este é o meu primeiro site usando JavaScript, ele é um conversor de moedas, ele usa valores estimados, pegos no dia que o site foi feito. Estou muito feliz com o resultado.</p>
+<p>Bom, este é o meu primeiro site usando JavaScript, ele é um conversor de moedas, ele usa valores reais do dia atual. Estou muito feliz com o resultado.</p>
 <br>
 <br>
 <h3>Tecnologias Utilizadas</h3>
